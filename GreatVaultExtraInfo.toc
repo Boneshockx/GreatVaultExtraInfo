@@ -1,0 +1,11 @@
+## Interface: 120001, 110207
+## Title: GreatVaultExtraInfo
+## Notes: Display loot item levels for raid, m+, and devles on your Greater Vault UI
+## Author: Boneshock
+## Version: 1.0.0
+## IconAtlas: Garr_LevelUpgradeArrow
+
+## SavedVariables: GreatVaultExtraInfoDB
+
+VersionedData.lua
+Core.lua
